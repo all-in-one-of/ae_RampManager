@@ -1,4 +1,5 @@
 # Ramp Manager
+
 A Python-based digital asset for managing colour schemes and gradients in Houdini. Presets are stored in JSON format
 
 # Installation
